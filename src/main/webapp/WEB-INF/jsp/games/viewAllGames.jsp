@@ -33,6 +33,8 @@
 <a href="/games/findGame">Find Games</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/games/addGame">Add New Game</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/vendor/addVendor">Add New Vendor</a>
 </body>
 </body>
 </html>

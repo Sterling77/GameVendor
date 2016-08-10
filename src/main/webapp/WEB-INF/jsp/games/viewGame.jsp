@@ -21,11 +21,16 @@
         <td><c:out value="${game.gameDescription}" /></td>
     </tr>
     <tr>
-        <td>Game Description:</td>
-        <td><c:out value="${game.gameDescription}" /></td>
+        <td>Game Price:</td>
+        <td><c:out value="${game.gamePrice}" /></td>
     </tr>
 
     <%--ADD SCRIPT HERE--%>
+    <tr>
+        <td>Category:</td>
+        <td><c:out value="${category.categoryTitle}" /></td>
+    </tr>
+
 
     <tr>
         <td>Category Id:</td>
